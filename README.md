@@ -1,6 +1,7 @@
-## <p align="center"> Welcome to my page!
-  </p>
+<p align="center"> Welcome to my page!</p>
+
 ---
+
 <h3 align="center">
     Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(LeadBlackTech)
 </h3>
