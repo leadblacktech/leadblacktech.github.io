@@ -21,7 +21,7 @@
  Get To Know Me: ⚡
 
 - Network Engineer! 
-- Manufactoring Engineering is in my Blood. 
+- Manufacturing Engineering is in my Blood. 
 - I'm a 3d Model Creator!
 - My hobby is called Photogrammetry.
 - I create games in UnReal Engine.  
