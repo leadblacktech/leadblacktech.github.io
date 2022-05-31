@@ -4,17 +4,17 @@
 
 ---
 
-<h3 align="center">
+<h2 align="center">
     Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(LeadBlackTech)
-</h3>
+</h2>
 
 <h4 align="center">
     Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨  
 </h4>
 
-<h4 align="center">
+<h5 align="center">
     I am a student of Education and Learning is my Business. I enjoy Network Automation.💡
-</h4>  
+</h5>  
 
 ---
 
