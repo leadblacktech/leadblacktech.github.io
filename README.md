@@ -4,8 +4,12 @@
 
 ---
 
+<h5 align="center">
+    My <a href="https://github.com/leadblacktech" target="_blank" rel="noreferrer">Github</a> (LeadBlackTech)
+</h5>
+
 <h2 align="center">
-    Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(LeadBlackTech)
+    Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(Personal Website)
 </h2>
 
 <h4 align="center">
