@@ -7,10 +7,6 @@
     Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(Personal Website)
 </h2>
 
-<h5 align="center">
-    My <a href="https://github.com/leadblacktech" target="_blank" rel="noreferrer">Github</a> (LeadBlackTech)
-</h5>
-
 <h4 align="center">
     Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨  
 </h4>
