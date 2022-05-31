@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Welcome to my page!</h1>
 
 ---
 
@@ -42,7 +42,6 @@
 - Micro Focus Orchestration Operations
 - DevNet Associate (learning)
 - Oracle DevOps (beginner)
-- Photogrammetry (3D Models | Banner)
 
 ---
 
