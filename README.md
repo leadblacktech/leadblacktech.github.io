@@ -1,5 +1,5 @@
 <h1 align="center">
-    Welcome to my page!
+    Welcome to my Github.io site!
  </h1>
 
 ---
