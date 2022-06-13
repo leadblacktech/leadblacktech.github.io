@@ -5,7 +5,7 @@
 ---
 
 <h4 align="center">
-    Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨  
+    Network Engineer, Developer, best at Customer Service, and hands on with Tech.✨  
 </h4>
 
 <h5 align="center">
